@@ -1,2 +1,2 @@
-🎓 Graduating Software Engineering at Unileste
+🎓 Graduating Software Engineering
 🔠 Advanced English Level
