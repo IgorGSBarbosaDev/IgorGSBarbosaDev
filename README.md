@@ -1,5 +1,5 @@
 # Hello World!, I'm Igor, a Brazilian Software Engineer 👋🏼:
-👨‍🎓 Software Engineering undergraduate (3rd semester)<br>💻 Backend Developer since 2024<br>🗣️ English level: B2<br>📈 Always striving to improve and grow every day
+👨‍🎓 Software Engineering undergraduate (4rd semester)<br>💻 Backend Developer since 2024<br>🗣️ English level: B2<br>📈 Always striving to improve and grow every day
 
 
 ## 🌐 Socials:
